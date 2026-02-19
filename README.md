@@ -352,7 +352,7 @@ if __name__ == '__main__':
     app.run(debug=True)
 ```
 #  Evidencia del Ejercicio 1.1
-<img src="./static/img/clima.png" width="500">
+<img src="./static/img/clima.png.png" width="500">
 
 #  Ejercicio 1.2: Buscador de Lugares Cercanos
 
@@ -714,7 +714,7 @@ if __name__ == '__main__':
     app.run(debug=True, host='0.0.0.0', port=5001)
 ```
 #  Evidencia del Ejercicio 1.2
-<img src="./static/img/lugares.png" width="500">
+<img src="./static/img/lugares.png.png" width="500">
 
 #  Ejercicio 2.1: Analizador de Reddit
 
@@ -839,7 +839,7 @@ if __name__ == '__main__':
 ```
 
 # 📸 Evidencia del Ejercicio 2.1
-<img src="./static/img/reddit.png" width="500">
+<img src="./static/img/reddit.png.png" width="500">
 
 # Ejercicio 2.2: Dashboard de GitHub
 
@@ -983,7 +983,7 @@ if __name__ == '__main__':
 ```
 
 # 📸 Evidencia del Ejercicio 2.2
-<img src="./static/img/github.png" width="500">
+<img src="./static/img/github.png.png" width="500">
 
 # 🗃️ Ejercicio 3.1: API REST con SQLite
 
@@ -1254,7 +1254,7 @@ if __name__ == '__main__':
 ```
 
 # 📸 Evidencia del Ejercicio 3.1
-<img src="./static/img/productos.png" width="500">
+<img src="./static/img/productos.png.png" width="500">
 
 # 💬 Ejercicio 3.2: Chat con Firebase
 
@@ -1449,7 +1449,7 @@ if __name__ == '__main__':
 ```
 
 # 📸 Evidencia del Ejercicio 3.2
-<img src="./static/img/chat.png" width="500">
+<img src="./static/img/chat.png.png" width="500">
 
 # 📚 Ejercicio 4.1: Buscador de Libros
 
@@ -1575,7 +1575,7 @@ if __name__ == '__main__':
 ```
 
 # 📸 Evidencia del Ejercicio 4.1
-<img src="./static/img/libros.png" width="500">
+<img src="./static/img/libros.png.png" width="500">
 
 # 💱 Ejercicio 4.2: Conversor de Divisas
 
@@ -1829,7 +1829,7 @@ if __name__ == '__main__':
 ```
 
 # 📸 Evidencia del Ejercicio 4.2
-<img src="./static/img/divisas.png" width="500">
+<img src="./static/img/divisas.png.png" width="500">
 
 # 🎬 Ejercicio 5.1: Buscador de Películas
 
@@ -2227,7 +2227,7 @@ if __name__ == '__main__':
 ```
 
 # 📸 Evidencia del Ejercicio 5.2
-<img src="./static/img/spotify.png" width="500">
+<img src="./static/img/spotify.png.png" width="500">
 
 # 📌 Conclusión
 
