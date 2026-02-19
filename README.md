@@ -1,35 +1,26 @@
-<p align="center">
-  <img width="100%" src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="" />
-</p>
-
 <h1 align="center">
   🌐💻 APLICACIONES WEB ORIENTADA A SERVICIOS
 </h1>
 
 
-## GTID153
+## 📘 Descripción
 
-📘 **Materia:** Aplicaciones Web Orientada a Servicios  
-👩‍💻❤️ **Nombre:** Nataly Victoria Gonzalez Aviles  
-🏫 **Proyecto o Actividad:** Actividad 2.6 Desarrollo de aplicación web con APIs  
-📅 **Unidad:** 2  
-⚙️ **Lenguaje:** Python  
-🧠 **Propósito:** Desarrollar 10 aplicaciones web utilizando 10 APIs diferentes, aplicando los conocimientos adquiridos en la unidad 3 y comprendiendo su funcionamiento mediante su implementación en Python.  
-👨‍🏫 **Docente:** Anastacio Rodriguez Garcia
+Este proyecto consiste en el desarrollo de 10 aplicaciones web utilizando diferentes APIs públicas.
+Fue desarrollado con Flask y Python como parte de la unidad de Aplicaciones Web Orientadas a Servicios.
 
+Cada aplicación consume una API distinta, procesa datos en formato JSON
+y los renderiza dinámicamente en una interfaz web.
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00C2FF&center=true&vCenter=true&width=1000&lines=🌐+Unidad+2:+APIs+de+Terceros;🐍+Flask+%2B+Python;🚀+10+Apps+Consumiento+10+APIs" />
-</p>
+---
 
-<h1 align="center">🧠🌐 Unidad 2: Implementación de Interfaces de Programación de Aplicaciones de Terceros</h1>
+## 🛠 Tecnologías Utilizadas
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white" />
-  <img src="https://img.shields.io/badge/Web%20Apps-0A66C2?style=flat&logo=googlechrome&logoColor=white" />
-  <img src="https://img.shields.io/badge/APIs-FF6C37?style=flat&logo=postman&logoColor=white" />
-</p>
+- 🐍 Python 3.8+
+- ⚡ Flask
+- 🔗 Requests
+- 🗄 SQLite
+- 🔥 Firebase
+- 🌍 APIs REST
 
 
 ---
