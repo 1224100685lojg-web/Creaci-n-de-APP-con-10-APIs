@@ -1948,7 +1948,7 @@ if __name__ == '__main__':
     app.run(debug=True, port=5008)
 ```
 # 📸 Evidencia del Ejercicio 5.1
-<img src="./peliculas.png" width="500">
+<img src="./peliculas.png.png" width="500">
 
 # 🎵 Ejercicio 5.2: Buscador de Música con Spotify Web API
 
