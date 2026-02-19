@@ -1,7 +1,6 @@
-<h1 align="center">
-  🌐💻 APLICACIONES WEB ORIENTADA A SERVICIOS
-</h1>
+## Creación de APP con 10 APIs 
 
+---
 
 ## 📘 Descripción
 
@@ -41,18 +40,11 @@ y los renderiza dinámicamente en una interfaz web.
 
 ---
 
-# 🚀 Configuración Inicial
-
-## ✅ Requisitos Previos
-
-- Python **3.8 o superior**
-- Editor de código (**VS Code**, PyCharm, etc.)
-- Navegador web moderno
-- Conexión a Internet
+#  Configuración Inicial
 
 ---
 
-## 📦 Instalación del Proyecto
+##  Instalación del Proyecto
 
 Instalar dependencias necesarias:
 
@@ -95,17 +87,17 @@ unidad2-apis/
         └── spotify.png
 ```
 
-▶️ Ejecutar el proyecto
+ Ejecutar el proyecto
 python app.py
 
-# 🌦️ Ejercicio 1.1: Sistema de Clima por Ubicación
+#  Ejercicio 1.1: Sistema de Clima por Ubicación
 
-📌 Descripción:
+ Descripción:
 Aplicación que consulta el clima de una ciudad usando una API de clima.
 
-🔗 API sugerida: OpenWeatherMap
+ API sugerida: OpenWeatherMap
 
-🧾 Código del Ejercicio 1.1
+ Código del Ejercicio 1.1
 
 ## clima.html
 ```bash
@@ -359,17 +351,17 @@ def obtener_clima():
 if __name__ == '__main__':
     app.run(debug=True)
 ```
-# 📸 Evidencia del Ejercicio 1.1
+#  Evidencia del Ejercicio 1.1
 ![pruebas](https://github.com/natalyvictoria-jpg/Apis/raw/main/clima.jpeg)
 
-# 📍 Ejercicio 1.2: Buscador de Lugares Cercanos
+#  Ejercicio 1.2: Buscador de Lugares Cercanos
 
-📌 Descripción:
+ Descripción:
 Aplicación que busca lugares cercanos usando una API de mapas o lugares.
 
-## 🔗 API sugerida: Foursquare Places API
+##  API sugerida: Foursquare Places API
 
-🧾 Código del Ejercicio 1.2
+ Código del Ejercicio 1.2
 # lugares.html
 
 ```bash
@@ -721,17 +713,17 @@ def buscar_lugares():
 if __name__ == '__main__':
     app.run(debug=True, host='0.0.0.0', port=5001)
 ```
-# 📸 Evidencia del Ejercicio 1.2
+#  Evidencia del Ejercicio 1.2
 ![pruebas](https://github.com/natalyvictoria-jpg/Apis/raw/main/lugares.jpeg)
 
-# 👽 Ejercicio 2.1: Analizador de Reddit
+#  Ejercicio 2.1: Analizador de Reddit
 
-📌 Descripción:
+ Descripción:
 Aplicación que obtiene posts de un subreddit y muestra estadísticas.
 
-## 🔗 API sugerida: Reddit JSON API
+##  API sugerida: Reddit JSON API
 
-🧾 Código del Ejercicio 2.1
+ Código del Ejercicio 2.1
 # reddit.html
 
 ```bash
